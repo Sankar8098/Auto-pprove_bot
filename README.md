@@ -6,7 +6,7 @@
   
 <details><summary>📌 Deploy to Heroku </summary>
   
-<a href="https://heroku.com/deploy?template=https://github.com/NobiDeveloper/Auto-Approve-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Jnanesh124/Auto-Approve-Bot-pub"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
 </details>
 
   
