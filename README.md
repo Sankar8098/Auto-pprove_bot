@@ -19,7 +19,8 @@
 
 #### Deploy on Railway
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/Deploy?respiratory=https://github.com/Gowdru123/Auto-Approve-Bot-pub2/)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Auto-Approve-Bot-pub2)
+
 
 
 
