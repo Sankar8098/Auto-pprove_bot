@@ -30,6 +30,8 @@
   # fill config.py vars
   python3 bot.py
   ```
+  
+  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/D3ixJm?referralCode=gXJhlM)
 
 </details>
 
