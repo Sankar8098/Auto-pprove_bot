@@ -7,6 +7,6 @@ class Config:
     FSUB = getenv("FSUB", "SK_MoviesOffl")
     CHID = int(getenv("CHID", "-1001828551401"))
     SUDO = int(getenv("SUDO", "5821871362"))
-    MONGO_URI = getenv("MONGO_URI", "mongodb+srv://jnanesh:mongodb+srv://Test:1234@cluster0.2bzsp0q.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+    MONGO_URI = getenv("MONGO_URI", "mongodb+srv://admin:admin@nodejs.plqdxdk.mongodb.net/Homeserviceproject?retryWrites=true&w=majority")
     
 cfg = Config()
